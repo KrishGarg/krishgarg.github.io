@@ -16,11 +16,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4749](https://github.com/processing/p5.js/issues/4749) in [processing/p5.js](https://github.com/processing/p5.js)
-2. ❗️ Opened issue [#1036](https://github.com/graphql-nexus/nexus/issues/1036) in [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus)
-3. 🗣 Commented on [#128](https://github.com/aaronsw/html2text/issues/128) in [aaronsw/html2text](https://github.com/aaronsw/html2text)
-4. ❗️ Opened issue [#271](https://github.com/asdf-vm/asdf-nodejs/issues/271) in [asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs)
-5. 🗣 Commented on [#3725](https://github.com/brave/brave-browser/issues/3725) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. ❗️ Closed issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+2. ❗️ Opened issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+3. 🗣 Commented on [#4749](https://github.com/processing/p5.js/issues/4749) in [processing/p5.js](https://github.com/processing/p5.js)
+4. ❗️ Opened issue [#1036](https://github.com/graphql-nexus/nexus/issues/1036) in [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus)
+5. 🗣 Commented on [#128](https://github.com/aaronsw/html2text/issues/128) in [aaronsw/html2text](https://github.com/aaronsw/html2text)
 <!--END_SECTION:activity-->
 
 ---

@@ -16,11 +16,11 @@
 ---
 ## My Github Activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/leerob/on-demand-isr/issues/40) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-2. ❗️ Closed issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-3. ❗️ Opened issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-4. 🗣 Commented on [#4749](https://github.com/processing/p5.js/issues/4749) in [processing/p5.js](https://github.com/processing/p5.js)
-5. ❗️ Opened issue [#1036](https://github.com/graphql-nexus/nexus/issues/1036) in [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus)
+1. 🗣 Commented on [#5430](https://github.com/prisma/prisma/issues/5430) in [prisma/prisma](https://github.com/prisma/prisma)
+2. ❗️ Opened issue [#40](https://github.com/leerob/on-demand-isr/issues/40) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+3. ❗️ Closed issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+4. ❗️ Opened issue [#620](https://github.com/motdotla/dotenv/issues/620) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+5. 🗣 Commented on [#4749](https://github.com/processing/p5.js/issues/4749) in [processing/p5.js](https://github.com/processing/p5.js)
 <!--END_SECTION:activity-->
 
 ---
